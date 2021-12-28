@@ -14,3 +14,5 @@ functions:
       - http:
           path: /
           method: ANY
+    tags:
+      yor_trace: 44ecd0e4-7021-4cda-b4bc-f7af7e2163e6
