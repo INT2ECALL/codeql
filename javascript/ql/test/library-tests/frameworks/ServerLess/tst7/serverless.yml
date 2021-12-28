@@ -23,3 +23,5 @@ functions:
       - http:
           path: webhook
           method: post
+    tags:
+      yor_trace: ff4d2bf4-568f-4fa5-89bc-4f679d2f1dd3
